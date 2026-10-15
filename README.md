@@ -14,6 +14,7 @@
 3. **SQLite Database (`fest.db`)**: Pre-seeded with 14 official fest events across Technical, Cultural, Sports, Gaming, and Workshop categories.
 4. **Postman Test Suite**: Complete collection covering all 2xx, 4xx, and 5xx edge cases.
 5. **Web Application (HTML + Tailwind CSS + JS)**: Preserved and served directly from FastAPI at `http://localhost:8082/`.
+6. **Live Cloud Deployment (Vercel)**: Active at [https://hsb-refresh-gamma.vercel.app/](https://hsb-refresh-gamma.vercel.app/) (Admin at `/admin.html`).
 
 ---
 
